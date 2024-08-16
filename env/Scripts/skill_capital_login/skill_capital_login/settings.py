@@ -87,7 +87,7 @@ WSGI_APPLICATION = "skill_capital_login.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "skill-capital-login-api--",
+        "NAME": "postgres",
         'USER': 'postgres',
         'PASSWORD': 'shivababa@123',
         'HOST': 'localhost',    
